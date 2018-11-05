@@ -1,0 +1,24 @@
+textarea{
+    width: 400px;
+    height: 200px;
+    background-color: #ccd1d6;
+    color: #1c1e1f;
+    border: 1px solid #FFF;
+    border-radius: 10px
+}
+button{
+    margin-top: 40px
+}
+select{
+    margin-top: 40px
+}
+.key{
+    margin-top: 35px;
+    width: 100px;
+    height: 50px;
+    border: 2px solid blue;
+    border-radius: 10px
+}
+hr{
+    border-top: 2px dashed green
+}
